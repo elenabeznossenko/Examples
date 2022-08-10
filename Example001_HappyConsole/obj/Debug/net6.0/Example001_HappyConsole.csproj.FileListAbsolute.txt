@@ -1,0 +1,15 @@
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/bin/Debug/net6.0/Example001_HappyConsole
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/bin/Debug/net6.0/Example001_HappyConsole.deps.json
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/bin/Debug/net6.0/Example001_HappyConsole.runtimeconfig.json
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/bin/Debug/net6.0/Example001_HappyConsole.dll
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/bin/Debug/net6.0/Example001_HappyConsole.pdb
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/obj/Debug/net6.0/Example001_HappyConsole.csproj.AssemblyReference.cache
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/obj/Debug/net6.0/Example001_HappyConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/obj/Debug/net6.0/Example001_HappyConsole.AssemblyInfoInputs.cache
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/obj/Debug/net6.0/Example001_HappyConsole.AssemblyInfo.cs
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/obj/Debug/net6.0/Example001_HappyConsole.csproj.CoreCompileInputs.cache
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/obj/Debug/net6.0/Example001_HappyConsole.dll
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/obj/Debug/net6.0/refint/Example001_HappyConsole.dll
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/obj/Debug/net6.0/Example001_HappyConsole.pdb
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/obj/Debug/net6.0/Example001_HappyConsole.genruntimeconfig.cache
+/Users/elenabeznossenko/Desktop/Examples/Examples/Example001_HappyConsole/obj/Debug/net6.0/ref/Example001_HappyConsole.dll
